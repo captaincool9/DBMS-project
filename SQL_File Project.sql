@@ -36,5 +36,5 @@ insert into trainsdetail values('Jammu Tavi','5353','Delhi','Jammu','6000','23',
 select * from passengers;
 select * from trainsdetail;
 
--- Delete from passengers where pname='sid';
+-- Delete from passengers where pname='rohit';
 -- set sql_safe_updates=0;
